@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef02d14d-7de9-478c-84d2-369e84574f41" name="Changes" comment="completed">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML After.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML After.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/CommandPattern/AddProductCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/CommandPattern/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/CommandPattern/FinalizeOrderCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/CommandPattern/OrderHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/FactoryPattern/Condiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/FactoryPattern/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/FactoryPattern/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/FactoryPattern/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/FactoryPattern/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/TemplatePattern/BeverageOrderProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/TemplatePattern/CondimentOrderProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewImplementations/TemplatePattern/OrderProcessTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NewImplementations/TestUnits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UML Before.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AJun01 &lt;yujunliu150@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bxg1wsE4zmkRcggNUMEy8wIMob" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.NewImplementations.Main.executor": "Debug",
+    "DefaultPlantUmlFileTemplate": "UML Class",
+    "JUnit.TestUnits.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/aj/IdeaProjects/BU Projects/CS-665-Assignment-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/aj/IdeaProjects/BU Projects/CS-665-Assignment-1/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestUnits">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="CS-665-Assignment-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewImplementations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewImplementations.Main" />
+      <module name="CS-665-Assignment-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewImplementations.TemplatePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS-665-Assignment-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewImplementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NewImplementations" />
+      <option name="MAIN_CLASS_NAME" value="NewImplementations.TestUnits" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CS-665-Assignment-6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CS-665-Assignment-6" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUnits" />
+        <item itemvalue="Application.NewImplementations.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef02d14d-7de9-478c-84d2-369e84574f41" name="Changes" comment="" />
+      <created>1707161932213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707161932213</updated>
+      <workItem from="1707161933227" duration="28427000" />
+      <workItem from="1708038552636" duration="620000" />
+      <workItem from="1708460120801" duration="38000" />
+      <workItem from="1708475617375" duration="268000" />
+      <workItem from="1709219465598" duration="609000" />
+      <workItem from="1709248828827" duration="2822000" />
+      <workItem from="1713754913932" duration="13671000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed">
+      <option name="closed" value="true" />
+      <created>1707423334543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707423334543</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed">
+      <option name="closed" value="true" />
+      <created>1707423357260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707423357260</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed">
+      <option name="closed" value="true" />
+      <created>1707423637508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707423637508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
+  </component>
+</project>

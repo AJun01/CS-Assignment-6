@@ -1,0 +1,41 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+abstract class OrderProcessTemplate
+class CondimentOrderProcess
+class BeverageOrderProcess
+
+interface Command
+class AddProductCommand
+class FinalizeOrderCommand
+
+abstract class Product
+class ProductFactory
+class Drink
+class Condiment
+
+class Order
+class OrderHandler
+
+class Main
+
+Product --> Drink
+Product --> Condiment
+Drink --> ProductFactory
+Condiment --> ProductFactory
+
+Command --> AddProductCommand
+Command --> FinalizeOrderCommand
+Command --> OrderHandler
+AddProductCommand --> Order
+FinalizeOrderCommand --> Order
+
+OrderProcessTemplate-->CondimentOrderProcess
+OrderProcessTemplate-->BeverageOrderProcess
+
+CondimentOrderProcess-->Main
+BeverageOrderProcess-->Main
+Order-->Main
+OrderHandler-->Main
+ProductFactory-->Main
+@enduml
